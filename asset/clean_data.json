@@ -1,0 +1,3460 @@
+[
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.7,
+    "Title": "Titanic",
+    "Year": 1997,
+    "Gross": 658672302
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 9,
+    "Title": "The Dark Knight",
+    "Year": 2008,
+    "Gross": 533316061
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.7,
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Year": 1977,
+    "Gross": 460935665
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.3,
+    "Title": "Pirates of the Caribbean: Dead Man's Chest",
+    "Year": 2006,
+    "Gross": 423032628
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 8.3,
+    "Title": "Toy Story 3",
+    "Year": 2010,
+    "Gross": 414984497
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.2,
+    "Title": "Iron Man 3",
+    "Year": 2013,
+    "Gross": 408992272
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 8.2,
+    "Title": "Captain America: Civil War",
+    "Year": 2016,
+    "Gross": 407197282
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.3,
+    "Title": "Spider-Man",
+    "Year": 2002,
+    "Gross": 403706375
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.3,
+    "Title": "Spider-Man 2",
+    "Year": 2004,
+    "Gross": 373377893
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.8,
+    "Title": "The Jungle Book",
+    "Year": 2016,
+    "Gross": 362645141
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.8,
+    "Title": "The Jungle Book",
+    "Year": 2016,
+    "Gross": 362645141
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 7.2,
+    "Title": "Furious 7",
+    "Year": 2015,
+    "Gross": 350034110
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.5,
+    "Title": "Alice in Wonderland",
+    "Year": 2010,
+    "Gross": 334185206
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.5,
+    "Title": "Alice in Wonderland",
+    "Year": 2010,
+    "Gross": 334185206
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 8.8,
+    "Title": "Forrest Gump",
+    "Year": 1994,
+    "Gross": 329691196
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.9,
+    "Title": "Iron Man",
+    "Year": 2008,
+    "Gross": 318298180
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7,
+    "Title": "Iron Man 2",
+    "Year": 2010,
+    "Gross": 312057433
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.1,
+    "Title": "Pirates of the Caribbean: At World's End",
+    "Year": 2007,
+    "Gross": 309404152
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.4,
+    "Title": "Star Wars: Episode VI - Return of the Jedi",
+    "Year": 1983,
+    "Gross": 309125409
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 8.1,
+    "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Year": 2003,
+    "Gross": 305388685
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 8.1,
+    "Title": "The Sixth Sense",
+    "Year": 1999,
+    "Gross": 293501675
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.8,
+    "Title": "Inception",
+    "Year": 2010,
+    "Gross": 292568851
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.8,
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Year": 1980,
+    "Gross": 290158751
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 8.1,
+    "Title": "Monsters, Inc.",
+    "Year": 2001,
+    "Gross": 289907418
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 7.3,
+    "Title": "Monsters University",
+    "Year": 2013,
+    "Gross": 268488329
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.8,
+    "Title": "Captain America: The Winter Soldier",
+    "Year": 2014,
+    "Gross": 259746958
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7.8,
+    "Title": "The Lego Movie",
+    "Year": 2014,
+    "Gross": 257756197
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.9,
+    "Title": "Toy Story 2",
+    "Year": 1999,
+    "Gross": 245823397
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 6.7,
+    "Title": "Bruce Almighty",
+    "Year": 2003,
+    "Gross": 242589580
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.5,
+    "Title": "Raiders of the Lost Ark",
+    "Year": 1981,
+    "Gross": 242374454
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.7,
+    "Title": "Pirates of the Caribbean: On Stranger Tides",
+    "Year": 2011,
+    "Gross": 241063875
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.8,
+    "Title": "X-Men: The Last Stand",
+    "Year": 2006,
+    "Gross": 234360014
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 6.5,
+    "Title": "War of the Worlds",
+    "Year": 2005,
+    "Gross": 234277056
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.7,
+    "Title": "Cast Away",
+    "Year": 2000,
+    "Gross": 233630478
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 8.1,
+    "Title": "The Martian",
+    "Year": 2015,
+    "Gross": 228430993
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 8.1,
+    "Title": "The Bourne Ultimatum",
+    "Year": 2007,
+    "Gross": 227137090
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.9,
+    "Title": "Mrs. Doubtfire",
+    "Year": 1993,
+    "Gross": 219200000
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.6,
+    "Title": "The Da Vinci Code",
+    "Year": 2006,
+    "Gross": 217536138
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 8.2,
+    "Title": "How to Train Your Dragon",
+    "Year": 2010,
+    "Gross": 217387997
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 8,
+    "Title": "Aladdin",
+    "Year": 1992,
+    "Gross": 217350219
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 8.6,
+    "Title": "Saving Private Ryan",
+    "Year": 1998,
+    "Gross": 216119491
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.5,
+    "Title": "X-Men 2",
+    "Year": 2003,
+    "Gross": 214948780
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.7,
+    "Title": 300,
+    "Year": 2006,
+    "Gross": 210592590
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.4,
+    "Title": "Mission: Impossible - Ghost Protocol",
+    "Year": 2011,
+    "Gross": 209364921
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.6,
+    "Title": "Sherlock Holmes",
+    "Year": 2009,
+    "Gross": 209019489
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.7,
+    "Title": "Charlie and the Chocolate Factory",
+    "Year": 2005,
+    "Gross": 206456431
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 8.3,
+    "Title": "Batman Begins",
+    "Year": 2005,
+    "Gross": 205343774
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.6,
+    "Title": "Armageddon",
+    "Year": 1998,
+    "Gross": 201573391
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.5,
+    "Title": "Happy Feet",
+    "Year": 2006,
+    "Gross": 197992827
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.3,
+    "Title": "Indiana Jones and the Last Crusade",
+    "Year": 1989,
+    "Gross": 197171806
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.4,
+    "Title": "Mission: Impossible - Rogue Nation",
+    "Year": 2015,
+    "Gross": 195000874
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 8.3,
+    "Title": "Toy Story",
+    "Year": 1995,
+    "Gross": 191796233
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 8.6,
+    "Title": "Interstellar",
+    "Year": 2014,
+    "Gross": 187991439
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.5,
+    "Title": "Sherlock Holmes: A Game of Shadows",
+    "Year": 2011,
+    "Gross": 186830669
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.8,
+    "Title": "The Fugitive",
+    "Year": 1993,
+    "Gross": 183875760
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.1,
+    "Title": "The Revenant",
+    "Year": 2015,
+    "Gross": 183635922
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.1,
+    "Title": "Mission: Impossible",
+    "Year": 1996,
+    "Gross": 180965237
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.7,
+    "Title": "X-Men Origins: Wolverine",
+    "Year": 2009,
+    "Gross": 179883016
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.6,
+    "Title": "Indiana Jones and the Temple of Doom",
+    "Year": 1984,
+    "Gross": 179870271
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.4,
+    "Title": "Tootsie",
+    "Year": 1982,
+    "Gross": 177200000
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.9,
+    "Title": "How to Train Your Dragon 2",
+    "Year": 2014,
+    "Gross": 176997107
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 6.9,
+    "Title": "Top Gun",
+    "Year": 1986,
+    "Gross": 176781728
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.8,
+    "Title": "The Bourne Supremacy",
+    "Year": 2004,
+    "Gross": 176049130
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.9,
+    "Title": "National Treasure",
+    "Year": 2004,
+    "Gross": 173005002
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 8,
+    "Title": "Rain Man",
+    "Year": 1988,
+    "Gross": 172825435
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.6,
+    "Title": "Apollo 13",
+    "Year": 1995,
+    "Gross": 172071312
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 8.7,
+    "Title": "The Matrix",
+    "Year": 1999,
+    "Gross": 171383253
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.7,
+    "Title": "True Grit",
+    "Year": 2010,
+    "Gross": 171031347
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 6.7,
+    "Title": "Hotel Transylvania 2",
+    "Year": 2015,
+    "Gross": 169692572
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7,
+    "Title": "Meet the Parents",
+    "Year": 2000,
+    "Gross": 166225040
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8,
+    "Title": "Catch Me If You Can",
+    "Year": 2002,
+    "Gross": 164435221
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.5,
+    "Title": "Django Unchained",
+    "Year": 2012,
+    "Gross": 162804648
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.2,
+    "Title": "A Bug's Life",
+    "Year": 1998,
+    "Gross": 162792677
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 6.8,
+    "Title": "The Firm",
+    "Year": 1993,
+    "Gross": 158348400
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.4,
+    "Title": "X-Men",
+    "Year": 2000,
+    "Gross": 157299717
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 6.6,
+    "Title": "What Lies Beneath",
+    "Year": 2000,
+    "Gross": 155370362
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.8,
+    "Title": "Over the Hedge",
+    "Year": 2006,
+    "Gross": 155019340
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.3,
+    "Title": "Jerry Maguire",
+    "Year": 1996,
+    "Gross": 153620822
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.6,
+    "Title": "Les Misթrables",
+    "Year": 2012,
+    "Gross": 148775460
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.3,
+    "Title": "Megamind",
+    "Year": 2010,
+    "Gross": 148337537
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 7.1,
+    "Title": "Hotel Transylvania",
+    "Year": 2012,
+    "Gross": 148313048
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 6.6,
+    "Title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "Year": 2006,
+    "Gross": 148213377
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 7.9,
+    "Title": "Taken",
+    "Year": 2008,
+    "Gross": 145000989
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.3,
+    "Title": "The Great Gatsby",
+    "Year": 2013,
+    "Gross": 144812796
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.3,
+    "Title": "The Great Gatsby",
+    "Year": 2013,
+    "Gross": 144812796
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.2,
+    "Title": "Kung Fu Panda 3",
+    "Year": 2016,
+    "Gross": 143523463
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.5,
+    "Title": "Juno",
+    "Year": 2007,
+    "Gross": 143492840
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.5,
+    "Title": "Juno",
+    "Year": 2007,
+    "Gross": 143492840
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 6.6,
+    "Title": "Pocahontas",
+    "Year": 1995,
+    "Gross": 141600000
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.6,
+    "Title": "A Few Good Men",
+    "Year": 1992,
+    "Gross": 141340178
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 8.3,
+    "Title": "Good Will Hunting",
+    "Year": 1997,
+    "Gross": 138339411
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 8.1,
+    "Title": "Platoon",
+    "Year": 1986,
+    "Gross": 137963328
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 8.5,
+    "Title": "The Green Mile",
+    "Year": 1999,
+    "Gross": 136801374
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.7,
+    "Title": "Patch Adams",
+    "Year": 1998,
+    "Gross": 135014968
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.2,
+    "Title": "Live Free or Die Hard",
+    "Year": 2007,
+    "Gross": 134520804
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 7.4,
+    "Title": "The Rock",
+    "Year": 1996,
+    "Gross": 134006721
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 6.9,
+    "Title": "Mission: Impossible III",
+    "Year": 2006,
+    "Gross": 133382309
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.7,
+    "Title": "Angels & Demons",
+    "Year": 2009,
+    "Gross": 133375846
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.7,
+    "Title": "The Wolverine",
+    "Year": 2013,
+    "Gross": 132550960
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.5,
+    "Title": "The Departed",
+    "Year": 2006,
+    "Gross": 132373442
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.7,
+    "Title": "Minority Report",
+    "Year": 2002,
+    "Gross": 132014112
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 8.6,
+    "Title": "The Silence of the Lambs",
+    "Year": 1991,
+    "Gross": 130727000
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.5,
+    "Title": "Get Smart",
+    "Year": 2008,
+    "Gross": 130313314
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.8,
+    "Title": "American Gangster",
+    "Year": 2007,
+    "Gross": 130127620
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 8.4,
+    "Title": "American Beauty",
+    "Year": 1999,
+    "Gross": 130058047
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.1,
+    "Title": "Shutter Island",
+    "Year": 2010,
+    "Gross": 127968405
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.8,
+    "Title": "Safe House",
+    "Year": 2012,
+    "Gross": 126149655
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 6.6,
+    "Title": "Terminator Salvation",
+    "Year": 2009,
+    "Gross": 125320003
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.7,
+    "Title": "Something's Gotta Give",
+    "Year": 2003,
+    "Gross": 124590960
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 7.3,
+    "Title": "Good Morning, Vietnam",
+    "Year": 1987,
+    "Gross": 123922370
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.2,
+    "Title": "Rango",
+    "Year": 2011,
+    "Gross": 123207194
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 6.9,
+    "Title": "Clear and Present Danger",
+    "Year": 1994,
+    "Gross": 122012710
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.9,
+    "Title": "The Bourne Identity",
+    "Year": 2002,
+    "Gross": 121468960
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.2,
+    "Title": "Speed",
+    "Year": 1994,
+    "Gross": 121248145
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.7,
+    "Title": "Hook",
+    "Year": 1991,
+    "Gross": 119654900
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7.3,
+    "Title": "Now You See Me",
+    "Year": 2013,
+    "Gross": 117698894
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.1,
+    "Title": "Die Hard 2",
+    "Year": 1990,
+    "Gross": 117541000
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.9,
+    "Title": "Horrible Bosses",
+    "Year": 2011,
+    "Gross": 117528646
+  },
+  {
+    "Actor": "Sylvester Stallone",
+    "Score": 8.1,
+    "Title": "Rocky",
+    "Year": 1976,
+    "Gross": 117235247
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8.2,
+    "Title": "The Wolf of Wall Street",
+    "Year": 2013,
+    "Gross": 116866727
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.5,
+    "Title": "You've Got Mail",
+    "Year": 1998,
+    "Gross": 115731542
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.5,
+    "Title": "American Graffiti",
+    "Year": 1973,
+    "Gross": 115000000
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.3,
+    "Title": "Big",
+    "Year": 1988,
+    "Gross": 114968774
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 7.3,
+    "Title": "Face/Off",
+    "Year": 1997,
+    "Gross": 112225777
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.7,
+    "Title": "The Last Samurai",
+    "Year": 2003,
+    "Gross": 111110575
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7,
+    "Title": "Tropic Thunder",
+    "Year": 2008,
+    "Gross": 110416702
+  },
+  {
+    "Actor": "Sylvester Stallone",
+    "Score": 7.7,
+    "Title": "Creed",
+    "Year": 2015,
+    "Gross": 109712885
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.4,
+    "Title": "A Time to Kill",
+    "Year": 1996,
+    "Gross": 108706165
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.1,
+    "Title": "Jason Bourne",
+    "Year": 2016,
+    "Gross": 108521835
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 8.9,
+    "Title": "Pulp Fiction",
+    "Year": 1994,
+    "Gross": 107930000
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.2,
+    "Title": "A League of Their Own",
+    "Year": 1992,
+    "Gross": 107458785
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.9,
+    "Title": "Captain Phillips",
+    "Year": 2013,
+    "Gross": 107100855
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 6.7,
+    "Title": "Analyze This",
+    "Year": 1999,
+    "Gross": 106694016
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7.4,
+    "Title": "Driving Miss Daisy",
+    "Year": 1989,
+    "Gross": 106593296
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 7,
+    "Title": "The Italian Job",
+    "Year": 2003,
+    "Gross": 106126012
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.7,
+    "Title": "Road to Perdition",
+    "Year": 2002,
+    "Gross": 104054514
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.3,
+    "Title": "Rise of the Guardians",
+    "Year": 2012,
+    "Gross": 103400692
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.5,
+    "Title": "The Expendables",
+    "Year": 2010,
+    "Gross": 102981571
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.5,
+    "Title": "The Aviator",
+    "Year": 2004,
+    "Gross": 102608827
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.5,
+    "Title": "Gone in Sixty Seconds",
+    "Year": 2000,
+    "Gross": 101643008
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.2,
+    "Title": "The Equalizer",
+    "Year": 2014,
+    "Gross": 101530738
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 6.8,
+    "Title": "Con Air",
+    "Year": 1997,
+    "Gross": 101087161
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.4,
+    "Title": "Contact",
+    "Year": 1997,
+    "Gross": 100853835
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.5,
+    "Title": "The Pelican Brief",
+    "Year": 1993,
+    "Gross": 100768056
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 6.9,
+    "Title": "Vanilla Sky",
+    "Year": 2001,
+    "Gross": 100614858
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 6.9,
+    "Title": "Step Brothers",
+    "Year": 2008,
+    "Gross": 100468793
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 6.6,
+    "Title": "Due Date",
+    "Year": 2010,
+    "Gross": 100448498
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.9,
+    "Title": "Edge of Tomorrow",
+    "Year": 2014,
+    "Gross": 100189501
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 8.6,
+    "Title": "Se7en",
+    "Year": 1995,
+    "Gross": 100125340
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.6,
+    "Title": "Die Hard with a Vengeance",
+    "Year": 1995,
+    "Gross": 100012500
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.6,
+    "Title": "Collateral",
+    "Year": 2004,
+    "Gross": 100003492
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 6.5,
+    "Title": "Olympus Has Fallen",
+    "Year": 2013,
+    "Gross": 98895417
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7,
+    "Title": "Public Enemies",
+    "Year": 2009,
+    "Gross": 97030725
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 8.9,
+    "Title": "Schindler's List",
+    "Year": 1993,
+    "Gross": 96067179
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 8,
+    "Title": "Dead Poets Society",
+    "Year": 1989,
+    "Gross": 95860116
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.2,
+    "Title": "Cold Mountain",
+    "Year": 2003,
+    "Gross": 95632614
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.5,
+    "Title": 42,
+    "Year": 2013,
+    "Gross": 95001343
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.9,
+    "Title": "The Book of Eli",
+    "Year": 2010,
+    "Gross": 94822707
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 6.7,
+    "Title": "The Mask of Zorro",
+    "Year": 1998,
+    "Gross": 93771072
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.3,
+    "Title": "Flight",
+    "Year": 2012,
+    "Gross": 93749203
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.9,
+    "Title": "The Fighter",
+    "Year": 2010,
+    "Gross": 93571803
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7.4,
+    "Title": "The Bucket List",
+    "Year": 2007,
+    "Gross": 93452056
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.6,
+    "Title": "Elysium",
+    "Year": 2013,
+    "Gross": 93050117
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.2,
+    "Title": "Red Dragon",
+    "Year": 2002,
+    "Gross": 92930005
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 7,
+    "Title": "Non-Stop",
+    "Year": 2014,
+    "Gross": 91439400
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.3,
+    "Title": "Crimson Tide",
+    "Year": 1995,
+    "Gross": 91400000
+  },
+  {
+    "Actor": "Sylvester Stallone",
+    "Score": 6.6,
+    "Title": "Antz",
+    "Year": 1998,
+    "Gross": 90646554
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.1,
+    "Title": "RED",
+    "Year": 2010,
+    "Gross": 90356857
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.6,
+    "Title": "Terminator Genisys",
+    "Year": 2015,
+    "Gross": 89732035
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.5,
+    "Title": "The Lone Ranger",
+    "Year": 2013,
+    "Gross": 89289910
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7,
+    "Title": "Oblivion",
+    "Year": 2013,
+    "Gross": 89021735
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 6.5,
+    "Title": "The Ugly Truth",
+    "Year": 2009,
+    "Gross": 88915214
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.6,
+    "Title": "Inside Man",
+    "Year": 2006,
+    "Gross": 88504640
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.1,
+    "Title": "Real Steel",
+    "Year": 2011,
+    "Gross": 85463309
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7,
+    "Title": "The SpongeBob SquarePants Movie",
+    "Year": 2004,
+    "Gross": 85416609
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.9,
+    "Title": "Stripes",
+    "Year": 1981,
+    "Gross": 85300000
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.7,
+    "Title": "The Expendables 2",
+    "Year": 2012,
+    "Gross": 85017401
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.4,
+    "Title": "Up in the Air",
+    "Year": 2009,
+    "Gross": 83813460
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.5,
+    "Title": "Saving Mr. Banks",
+    "Year": 2013,
+    "Gross": 83299761
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 6.9,
+    "Title": "Patriot Games",
+    "Year": 1992,
+    "Gross": 83287363
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.1,
+    "Title": "Valkyrie",
+    "Year": 2008,
+    "Gross": 83077470
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.5,
+    "Title": "Bram Stoker's Dracula",
+    "Year": 1992,
+    "Gross": 82522790
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.8,
+    "Title": "Unstoppable",
+    "Year": 2010,
+    "Gross": 81557479
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.3,
+    "Title": "The Talented Mr. Ripley",
+    "Year": 1999,
+    "Gross": 81292135
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.8,
+    "Title": 21,
+    "Year": 2008,
+    "Gross": 81159365
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7,
+    "Title": "Jack Reacher",
+    "Year": 2012,
+    "Gross": 80033643
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7,
+    "Title": "Jack Reacher",
+    "Year": 2012,
+    "Gross": 80033643
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.3,
+    "Title": "Cape Fear",
+    "Year": 1991,
+    "Gross": 79100000
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.5,
+    "Title": "Apocalypse Now",
+    "Year": 1979,
+    "Gross": 78800000
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.7,
+    "Title": "City of Angels",
+    "Year": 1998,
+    "Gross": 78745923
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.7,
+    "Title": "Man on Fire",
+    "Year": 2004,
+    "Gross": 77862546
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.5,
+    "Title": "Gangs of New York",
+    "Year": 2002,
+    "Gross": 77679638
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7.6,
+    "Title": "March of the Penguins",
+    "Year": 2005,
+    "Gross": 77413017
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.7,
+    "Title": "Philadelphia",
+    "Year": 1993,
+    "Gross": 77324422
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 6.6,
+    "Title": "U-571",
+    "Year": 2000,
+    "Gross": 77086030
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.3,
+    "Title": "The Terminal",
+    "Year": 2004,
+    "Gross": 77032279
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.9,
+    "Title": "The Untouchables",
+    "Year": 1987,
+    "Gross": 76270454
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.7,
+    "Title": "Training Day",
+    "Year": 2001,
+    "Gross": 76261036
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.7,
+    "Title": "The Family Man",
+    "Year": 2000,
+    "Gross": 75764085
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.6,
+    "Title": "Contagion",
+    "Year": 2011,
+    "Gross": 75638743
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.1,
+    "Title": "We Bought a Zoo",
+    "Year": 2011,
+    "Gross": 75621915
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.6,
+    "Title": "Moneyball",
+    "Year": 2011,
+    "Gross": 75605492
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.7,
+    "Title": "2 Guns",
+    "Year": 2013,
+    "Gross": 75573300
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 6.5,
+    "Title": "The Horse Whisperer",
+    "Year": 1998,
+    "Gross": 75370763
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.2,
+    "Title": "The Intern",
+    "Year": 2015,
+    "Gross": 75274748
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 7.2,
+    "Title": "Old School",
+    "Year": 2003,
+    "Gross": 74608545
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 6.6,
+    "Title": "Monster House",
+    "Year": 2006,
+    "Gross": 73661010
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.4,
+    "Title": "Law Abiding Citizen",
+    "Year": 2009,
+    "Gross": 73343413
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7,
+    "Title": "Spirit: Stallion of the Cimarron",
+    "Year": 2002,
+    "Gross": 73215310
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.6,
+    "Title": "Bridge of Spies",
+    "Year": 2015,
+    "Gross": 72306065
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 6.9,
+    "Title": "Dolphin Tale",
+    "Year": 2011,
+    "Gross": 72279690
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.1,
+    "Title": "I Love You, Man",
+    "Year": 2009,
+    "Gross": 71347010
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 6.8,
+    "Title": "The Score",
+    "Year": 2001,
+    "Gross": 71069884
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7,
+    "Title": "John Q",
+    "Year": 2002,
+    "Gross": 71026631
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 8.1,
+    "Title": "Groundhog Day",
+    "Year": 1993,
+    "Gross": 70906973
+  },
+  {
+    "Actor": "Sylvester Stallone",
+    "Score": 7.2,
+    "Title": "Rocky Balboa",
+    "Year": 2006,
+    "Gross": 70269171
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.2,
+    "Title": "Born on the Fourth of July",
+    "Year": 1989,
+    "Gross": 70001698
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.5,
+    "Title": "Swordfish",
+    "Year": 2001,
+    "Gross": 69772969
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.6,
+    "Title": "Outbreak",
+    "Year": 1995,
+    "Gross": 67823573
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.7,
+    "Title": "Hidalgo",
+    "Year": 2004,
+    "Gross": 67286731
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.1,
+    "Title": "Charlie Wilson's War",
+    "Year": 2007,
+    "Gross": 66636385
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.5,
+    "Title": "Legends of the Fall",
+    "Year": 1994,
+    "Gross": 66528842
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.5,
+    "Title": "Contraband",
+    "Year": 2012,
+    "Gross": 66489425
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.7,
+    "Title": "The Bone Collector",
+    "Year": 1999,
+    "Gross": 66488090
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 8,
+    "Title": "Big Fish",
+    "Year": 2003,
+    "Gross": 66257002
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.6,
+    "Title": "The Manchurian Candidate",
+    "Year": 2004,
+    "Gross": 65948711
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.4,
+    "Title": "Witness",
+    "Year": 1985,
+    "Gross": 65500000
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 8.3,
+    "Title": "L.A. Confidential",
+    "Year": 1997,
+    "Gross": 64604977
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.7,
+    "Title": "Flushed Away",
+    "Year": 2006,
+    "Gross": 64459316
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 6.6,
+    "Title": "Last Vegas",
+    "Year": 2013,
+    "Gross": 63910583
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.8,
+    "Title": "Beavis and Butt-Head Do America",
+    "Year": 1996,
+    "Gross": 63071133
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7,
+    "Title": "Black Mass",
+    "Year": 2015,
+    "Gross": 62563543
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.1,
+    "Title": "The Adjustment Bureau",
+    "Year": 2011,
+    "Gross": 62453315
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 6.7,
+    "Title": "Ender's Game",
+    "Year": 2013,
+    "Gross": 61656849
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.9,
+    "Title": "Unknown",
+    "Year": 2011,
+    "Gross": 61094903
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.9,
+    "Title": "Unknown",
+    "Year": 2011,
+    "Gross": 61094903
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.5,
+    "Title": "The Devil's Advocate",
+    "Year": 1997,
+    "Gross": 60984028
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 8.1,
+    "Title": "Prisoners",
+    "Year": 2013,
+    "Gross": 60962878
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 6.6,
+    "Title": "Kiss the Girls",
+    "Year": 1997,
+    "Gross": 60491560
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7,
+    "Title": "Burn After Reading",
+    "Year": 2008,
+    "Gross": 60338891
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7,
+    "Title": "Scrooged",
+    "Year": 1988,
+    "Gross": 60328558
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 8.1,
+    "Title": "The Grand Budapest Hotel",
+    "Year": 2014,
+    "Gross": 59073773
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.6,
+    "Title": "Courage Under Fire",
+    "Year": 1996,
+    "Gross": 58918501
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 6.6,
+    "Title": "Curious George",
+    "Year": 2006,
+    "Gross": 58336565
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.8,
+    "Title": "Bicentennial Man",
+    "Year": 1999,
+    "Gross": 58220776
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.3,
+    "Title": "The Lincoln Lawyer",
+    "Year": 2011,
+    "Gross": 57981889
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 8,
+    "Title": "Blood Diamond",
+    "Year": 2006,
+    "Gross": 57366262
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 9,
+    "Title": "The Godfather: Part II",
+    "Year": 1974,
+    "Gross": 57300000
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.7,
+    "Title": "The Whole Nine Yards",
+    "Year": 2000,
+    "Gross": 57262492
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.9,
+    "Title": "Edward Scissorhands",
+    "Year": 1990,
+    "Gross": 56362352
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.3,
+    "Title": "Eyes Wide Shut",
+    "Year": 1999,
+    "Gross": 55637680
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 7,
+    "Title": "What Dreams May Come",
+    "Year": 1998,
+    "Gross": 55350897
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 7,
+    "Title": "Austin Powers: International Man of Mystery",
+    "Year": 1997,
+    "Gross": 53868030
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.1,
+    "Title": "P.S. I Love You",
+    "Year": 2007,
+    "Gross": 53680848
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.8,
+    "Title": "3:10 to Yuma",
+    "Year": 2007,
+    "Gross": 53574088
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.4,
+    "Title": "Corpse Bride",
+    "Year": 2005,
+    "Gross": 53337608
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.5,
+    "Title": "Sleepers",
+    "Year": 1996,
+    "Gross": 53300852
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.7,
+    "Title": "RED 2",
+    "Year": 2013,
+    "Gross": 53215979
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 8.5,
+    "Title": "The Prestige",
+    "Year": 2006,
+    "Gross": 53082743
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.6,
+    "Title": "Blow",
+    "Year": 2001,
+    "Gross": 52937130
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.6,
+    "Title": "The Royal Tenenbaums",
+    "Year": 2001,
+    "Gross": 52353636
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.8,
+    "Title": "The Lake House",
+    "Year": 2006,
+    "Gross": 52320979
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7,
+    "Title": "The Color of Money",
+    "Year": 1986,
+    "Gross": 52293982
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.8,
+    "Title": "Finding Neverland",
+    "Year": 2004,
+    "Gross": 51676606
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.8,
+    "Title": "The Grey",
+    "Year": 2011,
+    "Gross": 51533608
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.4,
+    "Title": "The Phantom of the Opera",
+    "Year": 2004,
+    "Gross": 51225796
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7,
+    "Title": "Syriana",
+    "Year": 2005,
+    "Gross": 50815288
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7,
+    "Title": "Syriana",
+    "Year": 2005,
+    "Gross": 50815288
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.6,
+    "Title": "The Hurricane",
+    "Year": 1999,
+    "Gross": 50668906
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.4,
+    "Title": "K-PAX",
+    "Year": 2001,
+    "Gross": 50173190
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.3,
+    "Title": "Little Women",
+    "Year": 1994,
+    "Gross": 50003300
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.2,
+    "Title": "Men of Honor",
+    "Year": 2000,
+    "Gross": 48814909
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.7,
+    "Title": "Malcolm X",
+    "Year": 1992,
+    "Gross": 48169908
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.6,
+    "Title": "Secret Window",
+    "Year": 2004,
+    "Gross": 47781388
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 7.2,
+    "Title": "Kingdom of Heaven",
+    "Year": 2005,
+    "Gross": 47396698
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.4,
+    "Title": "The Judge",
+    "Year": 2014,
+    "Gross": 47105085
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 8.7,
+    "Title": "Goodfellas",
+    "Year": 1990,
+    "Gross": 46836394
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 6.8,
+    "Title": "Romeo + Juliet",
+    "Year": 1996,
+    "Gross": 46338728
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.1,
+    "Title": "The Rainmaker",
+    "Year": 1997,
+    "Gross": 45856732
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.8,
+    "Title": "Moonrise Kingdom",
+    "Year": 2012,
+    "Gross": 45507053
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 6.5,
+    "Title": "In Good Company",
+    "Year": 2004,
+    "Gross": 45489752
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 6.9,
+    "Title": "Cop Land",
+    "Year": 1997,
+    "Gross": 44886089
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.5,
+    "Title": "The Replacements",
+    "Year": 2000,
+    "Gross": 44737059
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.1,
+    "Title": "Meet Joe Black",
+    "Year": 1998,
+    "Gross": 44606335
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.8,
+    "Title": "Lost in Translation",
+    "Year": 2003,
+    "Gross": 44566004
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.3,
+    "Title": "The Negotiator",
+    "Year": 1998,
+    "Gross": 44484065
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.2,
+    "Title": "Amistad",
+    "Year": 1997,
+    "Gross": 44175394
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.3,
+    "Title": "St. Vincent",
+    "Year": 2014,
+    "Gross": 44134898
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.1,
+    "Title": "We Are Marshall",
+    "Year": 2006,
+    "Gross": 43532294
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.6,
+    "Title": "Tears of the Sun",
+    "Year": 2003,
+    "Gross": 43426961
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.1,
+    "Title": "Wag the Dog",
+    "Year": 1997,
+    "Gross": 43022524
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 7.2,
+    "Title": "The Age of Adaline",
+    "Year": 2015,
+    "Gross": 42478175
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 8.2,
+    "Title": "Casino",
+    "Year": 1995,
+    "Gross": 42438300
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.8,
+    "Title": "Donnie Brasco",
+    "Year": 1997,
+    "Gross": 41954997
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.3,
+    "Title": "Ronin",
+    "Year": 1998,
+    "Gross": 41609593
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.6,
+    "Title": "Bandits",
+    "Year": 2001,
+    "Gross": 41523271
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.5,
+    "Title": "Out of Time",
+    "Year": 2003,
+    "Gross": 40905277
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.9,
+    "Title": "Bill & Ted's Excellent Adventure",
+    "Year": 1989,
+    "Gross": 40485039
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 7.6,
+    "Title": "Stranger Than Fiction",
+    "Year": 2006,
+    "Gross": 40137776
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.4,
+    "Title": "Caddyshack",
+    "Year": 1980,
+    "Gross": 39800000
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 6.6,
+    "Title": "The Beach",
+    "Year": 2000,
+    "Gross": 39778599
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.5,
+    "Title": "Jackie Brown",
+    "Year": 1997,
+    "Gross": 39647595
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.1,
+    "Title": "Body of Lies",
+    "Year": 2008,
+    "Gross": 39380442
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.9,
+    "Title": "Little Shop of Horrors",
+    "Year": 1986,
+    "Gross": 38747385
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.6,
+    "Title": "Midnight Run",
+    "Year": 1988,
+    "Gross": 38413606
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.4,
+    "Title": "Invictus",
+    "Year": 2009,
+    "Gross": 37479778
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 6.6,
+    "Title": "J. Edgar",
+    "Year": 2011,
+    "Gross": 37304950
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 6.6,
+    "Title": "16 Blocks",
+    "Year": 2006,
+    "Gross": 36883539
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.5,
+    "Title": "8MM",
+    "Year": 1999,
+    "Gross": 36283504
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 6.9,
+    "Title": "The Island",
+    "Year": 2005,
+    "Gross": 35799026
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 6.9,
+    "Title": "The Island",
+    "Year": 2005,
+    "Gross": 35799026
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.7,
+    "Title": "K-19: The Widowmaker",
+    "Year": 2002,
+    "Gross": 35168677
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.5,
+    "Title": "For Love of the Game",
+    "Year": 1999,
+    "Gross": 35168395
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.9,
+    "Title": "Green Zone",
+    "Year": 2010,
+    "Gross": 35024475
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.7,
+    "Title": "Dangerous Liaisons",
+    "Year": 1988,
+    "Gross": 34700000
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.7,
+    "Title": "Dangerous Liaisons",
+    "Year": 1988,
+    "Gross": 34700000
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 6.5,
+    "Title": "Instinct",
+    "Year": 1999,
+    "Gross": 34098563
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.2,
+    "Title": "Pay It Forward",
+    "Year": 2000,
+    "Gross": 33508922
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.5,
+    "Title": "Doubt",
+    "Year": 2008,
+    "Gross": 33422556
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.5,
+    "Title": "The Informant!",
+    "Year": 2009,
+    "Gross": 33313582
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.7,
+    "Title": "Zodiac",
+    "Year": 2007,
+    "Gross": 33048353
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.5,
+    "Title": "Hereafter",
+    "Year": 2010,
+    "Gross": 32741596
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.9,
+    "Title": "Almost Famous",
+    "Year": 2000,
+    "Gross": 32522352
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 7.6,
+    "Title": "Leaving Las Vegas",
+    "Year": 1995,
+    "Gross": 31968347
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.9,
+    "Title": "Extremely Loud & Incredibly Close",
+    "Year": 2011,
+    "Gross": 31836745
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 6.7,
+    "Title": "The Soloist",
+    "Year": 2009,
+    "Gross": 31670931
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 7.5,
+    "Title": "August Rush",
+    "Year": 2007,
+    "Gross": 31655091
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.9,
+    "Title": "Rob Roy",
+    "Year": 1995,
+    "Gross": 31600000
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.8,
+    "Title": "From Hell",
+    "Year": 2001,
+    "Gross": 31598308
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.8,
+    "Title": "From Hell",
+    "Year": 2001,
+    "Gross": 31598308
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.8,
+    "Title": "One Hour Photo",
+    "Year": 2002,
+    "Gross": 31597131
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 6.9,
+    "Title": "Chappie",
+    "Year": 2015,
+    "Gross": 31569268
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.5,
+    "Title": "Good Night, and Good Luck.",
+    "Year": 2005,
+    "Gross": 31501218
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.7,
+    "Title": "The Legend of Bagger Vance",
+    "Year": 2000,
+    "Gross": 30695227
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.4,
+    "Title": "Dogma",
+    "Year": 1999,
+    "Gross": 30651422
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.6,
+    "Title": "The Great Debaters",
+    "Year": 2007,
+    "Gross": 30226144
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 8.3,
+    "Title": "Snatch",
+    "Year": 2000,
+    "Gross": 30093107
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 8.3,
+    "Title": "Snatch",
+    "Year": 2000,
+    "Gross": 30093107
+  },
+  {
+    "Actor": "Will Ferrell",
+    "Score": 6.9,
+    "Title": "Jay and Silent Bob Strike Back",
+    "Year": 2001,
+    "Gross": 30059386
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 7.3,
+    "Title": "The Bank Job",
+    "Year": 2008,
+    "Gross": 30028592
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.5,
+    "Title": "Wild Things",
+    "Year": 1998,
+    "Gross": 29753944
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.6,
+    "Title": "The Mechanic",
+    "Year": 2011,
+    "Gross": 29113588
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.4,
+    "Title": "Capote",
+    "Year": 2005,
+    "Gross": 28747570
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 9.3,
+    "Title": "The Shawshank Redemption",
+    "Year": 1994,
+    "Gross": 28341469
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 7,
+    "Title": "Crank",
+    "Year": 2006,
+    "Gross": 27829874
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 6.9,
+    "Title": "The Edge",
+    "Year": 1997,
+    "Gross": 27779888
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 8,
+    "Title": "Dallas Buyers Club",
+    "Year": 2013,
+    "Gross": 27296514
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 7.5,
+    "Title": "Cloud Atlas",
+    "Year": 2012,
+    "Gross": 27098580
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 8.2,
+    "Title": "Blade Runner",
+    "Year": 1982,
+    "Gross": 27000000
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.9,
+    "Title": "Glory",
+    "Year": 1989,
+    "Gross": 26830000
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.9,
+    "Title": "Glory",
+    "Year": 1989,
+    "Gross": 26830000
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 6.7,
+    "Title": "Machete",
+    "Year": 2010,
+    "Gross": 26589953
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.5,
+    "Title": "A Nightmare on Elm Street",
+    "Year": 1984,
+    "Gross": 26505000
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.5,
+    "Title": "A Nightmare on Elm Street",
+    "Year": 1984,
+    "Gross": 26505000
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.6,
+    "Title": "Run All Night",
+    "Year": 2015,
+    "Gross": 26442251
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.8,
+    "Title": "Street Kings",
+    "Year": 2008,
+    "Gross": 26415649
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.5,
+    "Title": "A Walk Among the Tombstones",
+    "Year": 2014,
+    "Gross": 25977365
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.5,
+    "Title": "Howards End",
+    "Year": 1992,
+    "Gross": 25967000
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.5,
+    "Title": "The Cotton Club",
+    "Year": 1984,
+    "Gross": 25900000
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.4,
+    "Title": "Shadowlands",
+    "Year": 1993,
+    "Gross": 25842000
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.9,
+    "Title": "That Thing You Do!",
+    "Year": 1996,
+    "Gross": 25809813
+  },
+  {
+    "Actor": "Tom Cruise",
+    "Score": 7.2,
+    "Title": "The Outsiders",
+    "Year": 1983,
+    "Gross": 25600000
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 8,
+    "Title": "Her",
+    "Year": 2013,
+    "Gross": 25556065
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.8,
+    "Title": "The Transporter",
+    "Year": 2002,
+    "Gross": 25296447
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 6.7,
+    "Title": "Sweet November",
+    "Year": 2001,
+    "Gross": 25178165
+  },
+  {
+    "Actor": "Sylvester Stallone",
+    "Score": 6.7,
+    "Title": "Escape Plan",
+    "Year": 2013,
+    "Gross": 25121291
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.5,
+    "Title": "Killer Elite",
+    "Year": 2011,
+    "Gross": 25093607
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.6,
+    "Title": "Midnight in the Garden of Good and Evil",
+    "Year": 1997,
+    "Gross": 25078937
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.9,
+    "Title": "Kingpin",
+    "Year": 1996,
+    "Gross": 24944213
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.6,
+    "Title": "Thank You for Smoking",
+    "Year": 2005,
+    "Gross": 24792061
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7,
+    "Title": "Unleashed",
+    "Year": 2005,
+    "Gross": 24520892
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 6.9,
+    "Title": "Hearts in Atlantis",
+    "Year": 2001,
+    "Gross": 24185781
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 7.6,
+    "Title": "Lord of War",
+    "Year": 2005,
+    "Gross": 24127895
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.3,
+    "Title": "The Life Aquatic with Steve Zissou",
+    "Year": 2004,
+    "Gross": 24006726
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 8.6,
+    "Title": "The Usual Suspects",
+    "Year": 1995,
+    "Gross": 23272306
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.2,
+    "Title": "Vicky Cristina Barcelona",
+    "Year": 2008,
+    "Gross": 23213577
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.7,
+    "Title": "Match Point",
+    "Year": 2005,
+    "Gross": 23089926
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.9,
+    "Title": "The Remains of the Day",
+    "Year": 1993,
+    "Gross": 22954968
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.4,
+    "Title": "Rounders",
+    "Year": 1998,
+    "Gross": 22905674
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 7.3,
+    "Title": "Revolutionary Road",
+    "Year": 2008,
+    "Gross": 22877808
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.6,
+    "Title": "Titan A.E.",
+    "Year": 2000,
+    "Gross": 22751979
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.4,
+    "Title": "Much Ado About Nothing",
+    "Year": 1993,
+    "Gross": 22551000
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.8,
+    "Title": "Lucky Number Slevin",
+    "Year": 2006,
+    "Gross": 22494487
+  },
+  {
+    "Actor": "Bruce Willis",
+    "Score": 7.8,
+    "Title": "Lucky Number Slevin",
+    "Year": 2006,
+    "Gross": 22494487
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 7.7,
+    "Title": "Adaptation.",
+    "Year": 2002,
+    "Gross": 22245861
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.8,
+    "Title": "Don Juan DeMarco",
+    "Year": 1994,
+    "Gross": 22200000
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.4,
+    "Title": "Mud",
+    "Year": 2012,
+    "Gross": 21589307
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.9,
+    "Title": "He Got Game",
+    "Year": 1998,
+    "Gross": 21554585
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.3,
+    "Title": "Antwone Fisher",
+    "Year": 2002,
+    "Gross": 21078145
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.8,
+    "Title": "Fantastic Mr. Fox",
+    "Year": 2009,
+    "Gross": 20999103
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 6.7,
+    "Title": "Free State of Jones",
+    "Year": 2016,
+    "Gross": 20389967
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.5,
+    "Title": "Homefront",
+    "Year": 2013,
+    "Gross": 19783777
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.5,
+    "Title": "The Life of David Gale",
+    "Year": 2003,
+    "Gross": 19593740
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.4,
+    "Title": "Wonder Boys",
+    "Year": 2000,
+    "Gross": 19389454
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 6.7,
+    "Title": "The Ninth Gate",
+    "Year": 1999,
+    "Gross": 18653746
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.5,
+    "Title": "Michael Jordan to the Max",
+    "Year": 2000,
+    "Gross": 18642318
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.6,
+    "Title": "EuroTrip",
+    "Year": 2004,
+    "Gross": 17718223
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 6.6,
+    "Title": "Home for the Holidays",
+    "Year": 1995,
+    "Gross": 17518220
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 8.2,
+    "Title": "The Big Lebowski",
+    "Year": 1998,
+    "Gross": 17439163
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 6.8,
+    "Title": "A Most Wanted Man",
+    "Year": 2014,
+    "Gross": 17237244
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.5,
+    "Title": "Safe",
+    "Year": 2012,
+    "Gross": 17120019
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.7,
+    "Title": "Rushmore",
+    "Year": 1998,
+    "Gross": 17096053
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.8,
+    "Title": "Bringing Out the Dead",
+    "Year": 1999,
+    "Gross": 16640210
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 6.5,
+    "Title": "Mo' Better Blues",
+    "Year": 1990,
+    "Gross": 16153600
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.5,
+    "Title": "Eddie the Eagle",
+    "Year": 2016,
+    "Gross": 15785632
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.5,
+    "Title": "Eddie the Eagle",
+    "Year": 2016,
+    "Gross": 15785632
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 6.5,
+    "Title": "Youth in Revolt",
+    "Year": 2009,
+    "Gross": 15281286
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.6,
+    "Title": "American Psycho",
+    "Year": 2000,
+    "Gross": 15047419
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.6,
+    "Title": "The Man Who Knew Too Little",
+    "Year": 1997,
+    "Gross": 13801755
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.1,
+    "Title": "Nixon",
+    "Year": 1995,
+    "Gross": 13560960
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.9,
+    "Title": "Labor Day",
+    "Year": 2013,
+    "Gross": 13362308
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.6,
+    "Title": "Lone Star",
+    "Year": 1996,
+    "Gross": 13269963
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.3,
+    "Title": "Frailty",
+    "Year": 2001,
+    "Gross": 13103828
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 8.5,
+    "Title": "Whiplash",
+    "Year": 2014,
+    "Gross": 13092000
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.7,
+    "Title": "25th Hour",
+    "Year": 2002,
+    "Gross": 13060843
+  },
+  {
+    "Actor": "Leonardo DiCaprio",
+    "Score": 6.7,
+    "Title": "Marvin's Room",
+    "Year": 1996,
+    "Gross": 12782508
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 6.7,
+    "Title": "The New World",
+    "Year": 2005,
+    "Gross": 12712093
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.6,
+    "Title": "The Weather Man",
+    "Year": 2005,
+    "Gross": 12469811
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 7.3,
+    "Title": "Chasing Amy",
+    "Year": 1997,
+    "Gross": 12006514
+  },
+  {
+    "Actor": "Harrison Ford",
+    "Score": 6.5,
+    "Title": "Extraordinary Measures",
+    "Year": 2010,
+    "Gross": 11854694
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7,
+    "Title": "Girl with a Pearl Earring",
+    "Year": 2003,
+    "Gross": 11634362
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7.1,
+    "Title": "The Words",
+    "Year": 2012,
+    "Gross": 11434867
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.8,
+    "Title": "The Shipping News",
+    "Year": 2001,
+    "Gross": 11405825
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 6.8,
+    "Title": "Out of the Furnace",
+    "Year": 2013,
+    "Gross": 11326836
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7,
+    "Title": "Bobby",
+    "Year": 2006,
+    "Gross": 11204499
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.8,
+    "Title": "Glengarry Glen Ross",
+    "Year": 1992,
+    "Gross": 10725228
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.7,
+    "Title": "Fear and Loathing in Las Vegas",
+    "Year": 1998,
+    "Gross": 10562387
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 6.7,
+    "Title": "Scoop",
+    "Year": 2006,
+    "Gross": 10515579
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 7.1,
+    "Title": "Kinsey",
+    "Year": 2004,
+    "Gross": 10214647
+  },
+  {
+    "Actor": "Hugh Jackman",
+    "Score": 7.3,
+    "Title": "The Fountain",
+    "Year": 2006,
+    "Gross": 10139254
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 8,
+    "Title": "Brazil",
+    "Year": 1985,
+    "Gross": 9929000
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 6.8,
+    "Title": "Rendition",
+    "Year": 2007,
+    "Gross": 9664316
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 6.8,
+    "Title": "Bernie",
+    "Year": 2011,
+    "Gross": 9203192
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 7.1,
+    "Title": "Get Low",
+    "Year": 2009,
+    "Gross": 9176553
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.8,
+    "Title": "What's Eating Gilbert Grape",
+    "Year": 1993,
+    "Gross": 9170214
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.2,
+    "Title": "Everybody's Fine",
+    "Year": 2009,
+    "Gross": 8855646
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 7,
+    "Title": "The Bounty",
+    "Year": 1984,
+    "Gross": 8600000
+  },
+  {
+    "Actor": "Morgan Freeman",
+    "Score": 7,
+    "Title": "An Unfinished Life",
+    "Year": 2005,
+    "Gross": 8535575
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.4,
+    "Title": "Pirate Radio",
+    "Year": 2009,
+    "Gross": 7994115
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.5,
+    "Title": "City of Ember",
+    "Year": 2008,
+    "Gross": 7871693
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.6,
+    "Title": "Promised Land",
+    "Year": 2012,
+    "Gross": 7556708
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.2,
+    "Title": "The Savages",
+    "Year": 2007,
+    "Gross": 6610326
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.1,
+    "Title": "My Own Private Idaho",
+    "Year": 1991,
+    "Gross": 6401336
+  },
+  {
+    "Actor": "Scarlett Johansson",
+    "Score": 7.4,
+    "Title": "Ghost World",
+    "Year": 2001,
+    "Gross": 6200756
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 6.7,
+    "Title": "Beyond the Sea",
+    "Year": 2004,
+    "Gross": 6144806
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.2,
+    "Title": "Chasing Mavericks",
+    "Year": 2012,
+    "Gross": 6002756
+  },
+  {
+    "Actor": "Denzel Washington",
+    "Score": 7.5,
+    "Title": "Cry Freedom",
+    "Year": 1987,
+    "Gross": 5899797
+  },
+  {
+    "Actor": "Johnny Depp",
+    "Score": 7.9,
+    "Title": "Ed Wood",
+    "Year": 1994,
+    "Gross": 5887457
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.3,
+    "Title": "Rescue Dawn",
+    "Year": 2006,
+    "Gross": 5484375
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.1,
+    "Title": "A Scanner Darkly",
+    "Year": 2006,
+    "Gross": 5480996
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.1,
+    "Title": "Margin Call",
+    "Year": 2011,
+    "Gross": 5354039
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 8.4,
+    "Title": "Once Upon a Time in America",
+    "Year": 1984,
+    "Gross": 5300000
+  },
+  {
+    "Actor": "Anthony Hopkins",
+    "Score": 7.9,
+    "Title": "The World's Fastest Indian",
+    "Year": 2005,
+    "Gross": 5128124
+  },
+  {
+    "Actor": "Kevin Spacey",
+    "Score": 7.9,
+    "Title": "Moon",
+    "Year": 2009,
+    "Gross": 5009677
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.5,
+    "Title": "Jakob the Liar",
+    "Year": 1999,
+    "Gross": 4956401
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 7.3,
+    "Title": "Paris, je t'aime",
+    "Year": 2006,
+    "Gross": 4857376
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 8.2,
+    "Title": "Howl's Moving Castle",
+    "Year": 2004,
+    "Gross": 4710455
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7.1,
+    "Title": "River's Edge",
+    "Year": 1986,
+    "Gross": 4600000
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 8.3,
+    "Title": "Inside Job",
+    "Year": 2010,
+    "Gross": 4311834
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.6,
+    "Title": "Kiss Kiss Bang Bang",
+    "Year": 2005,
+    "Gross": 4235837
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7,
+    "Title": "I'm Not There.",
+    "Year": 2007,
+    "Gross": 4001121
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7,
+    "Title": "Charlie Bartlett",
+    "Year": 2007,
+    "Gross": 3950294
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 8.2,
+    "Title": "Lock, Stock and Two Smoking Barrels",
+    "Year": 1998,
+    "Gross": 3650677
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 6.7,
+    "Title": "Next Stop Wonderland",
+    "Year": 1998,
+    "Gross": 3386698
+  },
+  {
+    "Actor": "J.K. Simmons",
+    "Score": 7,
+    "Title": "Harsh Times",
+    "Year": 2005,
+    "Gross": 3335839
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 7.1,
+    "Title": "Thirteen Conversations About One Thing",
+    "Year": 2001,
+    "Gross": 3287435
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.5,
+    "Title": "Synecdoche, New York",
+    "Year": 2008,
+    "Gross": 3081925
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.8,
+    "Title": "Happiness",
+    "Year": 1998,
+    "Gross": 3000000
+  },
+  {
+    "Actor": "Bill Murray",
+    "Score": 6.9,
+    "Title": "Cradle Will Rock",
+    "Year": 1999,
+    "Gross": 2899970
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 7.5,
+    "Title": "Richard III",
+    "Year": 1995,
+    "Gross": 2600000
+  },
+  {
+    "Actor": "Matthew McConaughey",
+    "Score": 6.7,
+    "Title": "Killer Joe",
+    "Year": 2011,
+    "Gross": 1987762
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.7,
+    "Title": "Bad Lieutenant: Port of Call New Orleans",
+    "Year": 2009,
+    "Gross": 1697956
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 7.8,
+    "Title": "Dear Frankie",
+    "Year": 2004,
+    "Gross": 1340891
+  },
+  {
+    "Actor": "Keanu Reeves",
+    "Score": 7,
+    "Title": "The Neon Demon",
+    "Year": 2016,
+    "Gross": 1330827
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.5,
+    "Title": "Equilibrium",
+    "Year": 2002,
+    "Gross": 1190018
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.7,
+    "Title": "The Machinist",
+    "Year": 2004,
+    "Gross": 1082044
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7,
+    "Title": "Velvet Goldmine",
+    "Year": 1998,
+    "Gross": 1043487
+  },
+  {
+    "Actor": "Philip Seymour Hoffman",
+    "Score": 7.2,
+    "Title": "Owning Mahowny",
+    "Year": 2003,
+    "Gross": 1011054
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 7.2,
+    "Title": "Trees Lounge",
+    "Year": 1996,
+    "Gross": 695229
+  },
+  {
+    "Actor": "Tom Hanks",
+    "Score": 6.6,
+    "Title": "The Polar Express",
+    "Year": 2004,
+    "Gross": 665426
+  },
+  {
+    "Actor": "Gerard Butler",
+    "Score": 6.8,
+    "Title": "Machine Gun Preacher",
+    "Year": 2011,
+    "Gross": 537580
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 6.8,
+    "Title": "Things to Do in Denver When You're Dead",
+    "Year": 1995,
+    "Gross": 529766
+  },
+  {
+    "Actor": "Nicolas Cage",
+    "Score": 6.9,
+    "Title": "Joe",
+    "Year": 2013,
+    "Gross": 371897
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 7,
+    "Title": "House of D",
+    "Year": 2004,
+    "Gross": 371081
+  },
+  {
+    "Actor": "Robin Williams",
+    "Score": 6.9,
+    "Title": "World's Greatest Dad",
+    "Year": 2009,
+    "Gross": 221210
+  },
+  {
+    "Actor": "Robert Downey Jr.",
+    "Score": 6.5,
+    "Title": "Fur: An Imaginary Portrait of Diane Arbus",
+    "Year": 2006,
+    "Gross": 220914
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.5,
+    "Title": "Mean Machine",
+    "Year": 2001,
+    "Gross": 92191
+  },
+  {
+    "Actor": "Steve Buscemi",
+    "Score": 7.2,
+    "Title": "The Messenger",
+    "Year": 2009,
+    "Gross": 66637
+  },
+  {
+    "Actor": "Matt Damon",
+    "Score": 6.5,
+    "Title": "Margaret",
+    "Year": 2011,
+    "Gross": 46495
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 8.3,
+    "Title": "Raging Bull",
+    "Year": 1980,
+    "Gross": 45250
+  },
+  {
+    "Actor": "Robert De Niro",
+    "Score": 7.4,
+    "Title": "Mean Streets",
+    "Year": 1973,
+    "Gross": 32645
+  },
+  {
+    "Actor": "Liam Neeson",
+    "Score": 6.8,
+    "Title": "Operation Chromite",
+    "Year": 2016,
+    "Gross": 31662
+  },
+  {
+    "Actor": "Jason Statham",
+    "Score": 6.6,
+    "Title": "London",
+    "Year": 2005,
+    "Gross": 12667
+  },
+  {
+    "Actor": "Christian Bale",
+    "Score": 7.6,
+    "Title": "The Flowers of War",
+    "Year": 2011,
+    "Gross": 9213
+  }
+]
