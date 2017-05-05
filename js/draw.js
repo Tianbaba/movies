@@ -11,7 +11,7 @@ var rScale = d3.scaleLinear()
     .range([0, (height-padding)/2]);
 
 var xAxis = d3.axisBottom(xScale);
-var showMovieInfo = (movie) => {    
+function showMovieInfo(movie){
     var table = $("#movie-info table").get();
     $(table).find(".title-row td").text(movie.title);
     $(table).find(".year-row td").text(movie.year);
@@ -35,18 +35,24 @@ for (var actor in data) {
         .text(actor);
         
     var movies = data[actor];
-    var circles = svg.selectAll("circle").data(movies);
-    circles.enter().append("circle")
+    let circles = svg.selectAll("circle").data(movies)
+    .enter().append("circle")
     .attr("class", "svg-circle")
     .attr("cy", height/2)
     .attr("cx", (d) => {return xScale(d.rating)})
     .attr("r", (d) => {return rScale(Math.sqrt(d.gross))})
-    .attr("opacity", 0.5)
+    .attr("opacity", 0.4)
     .attr("fill", "pink")
-    .on("mouseover", (d) => {
+    .on("mouseover", function(d){
         showMovieInfo(d);
-//        d3.select(this)
-//            .attr("stroke", "red");
+        d3.select(this)
+            .attr("stroke", "red")
+            .attr("stroke-width", 2);
+    })
+    .on("mouseout", function() {
+        d3.select(this)
+            .attr("stroke", "none")
+            .attr("stroke-width", 0);
     });
    
     svg.append("g")
