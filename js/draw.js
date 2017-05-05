@@ -2,15 +2,6 @@ var width = document.getElementById("svg-container").clientWidth,
     height = 200,
     padding = 10;
 
-var xScale = d3.scaleLinear()
-    .domain([6, 9.5]) //min rating to highest
-    .range([200, width-padding]);
-
-var rScale = d3.scaleLinear()
-    .domain([0, 26000])
-    .range([0, (height-padding)/2]);
-
-var xAxis = d3.axisBottom(xScale);
 function showMovieInfo(movie){
     var table = $("#movie-info table").get();
     $(table).find(".title-row td").text(movie.title);
@@ -18,6 +9,16 @@ function showMovieInfo(movie){
     $(table).find(".gross-row td").text("$" + movie.gross);
     $(table).find(".rating-row td").text(movie.rating);
 }
+
+var xScale = d3.scaleLinear()
+.domain([6, 9.5]) //min rating to highest
+.range([200, width-padding]);
+
+var rScale = d3.scaleLinear()
+    .domain([0, 26000])
+    .range([0, (height-padding)/2]);
+
+var xAxis = d3.axisBottom(xScale);
 
 for (var actor in data) {
     var svg = d3.select("#svg-container")
@@ -33,7 +34,7 @@ for (var actor in data) {
         .attr("y", height/2)
         .attr("class", "actor")
         .text(actor);
-        
+
     var movies = data[actor];
     let circles = svg.selectAll("circle").data(movies)
     .enter().append("circle")
@@ -54,9 +55,10 @@ for (var actor in data) {
             .attr("stroke", "none")
             .attr("stroke-width", 0);
     });
-   
+
     svg.append("g")
         .attr("class", "svg-axis")
         .attr("transform", "translate(0," + height/2 + ")")
         .call(xAxis);
 }
+
