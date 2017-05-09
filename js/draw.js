@@ -1,6 +1,11 @@
 var width = document.getElementById("svg-container").clientWidth,
     height = 200,
-    padding = 10;
+    padding = 10,
+    _minRating = 6,
+    _maxRating = 9.5,
+    _minGross = 0,
+    _maxGross = 26000,
+    _opacity = 0.4;
 
 function showMovieInfo(movie) {
     var table = $("#movie-info table").get();
@@ -11,11 +16,11 @@ function showMovieInfo(movie) {
 }
 
 var xScale = d3.scaleLinear()
-    .domain([6, 9.5]) //min rating to highest
+    .domain([_minRating, _maxRating]) //min rating to highest
     .range([200, width - padding]);
 
 var rScale = d3.scaleLinear()
-    .domain([0, 26000])
+    .domain([_minGross, _maxGross])
     .range([0, (height - padding) / 2]);
 
 var xAxis = d3.axisBottom(xScale);
@@ -28,6 +33,7 @@ for (var actor in data) {
         .attr("height", height)
         .attr("id", actor)
         .attr("class", "movie");
+        
     svg.append("text")
         .attr("class", "svg-text")
         .attr("x", 0)
@@ -36,17 +42,17 @@ for (var actor in data) {
         .text(actor);
 
     var movies = data[actor];
-    let circles = svg.selectAll("circle").data(movies)
+    var circles = svg.selectAll("circle").data(movies)
         .enter().append("circle")
         .attr("class", "svg-circle")
         .attr("cy", height / 2)
-        .attr("cx", (d) => {
-            return xScale(d.rating)
+        .attr("cx", function(d) {
+            return xScale(d.rating);
         })
-        .attr("r", (d) => {
-            return rScale(Math.sqrt(d.gross))
+        .attr("r", function(d) {
+            return rScale(Math.sqrt(d.gross));
         })
-        .attr("opacity", 0.4)
+        .attr("opacity", _opacity)
         .attr("fill", "pink")
         .on("mouseover", function (d) {
             showMovieInfo(d);
